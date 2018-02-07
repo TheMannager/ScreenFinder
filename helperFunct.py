@@ -1,3 +1,9 @@
+#Variable decleration
+
+NUM        = 0
+DENOM      = 1
+
+
 def gcd(a, b):
     """Calculate the Greatest Common Divisor of a and b.
 
